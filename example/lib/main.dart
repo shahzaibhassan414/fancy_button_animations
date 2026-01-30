@@ -63,6 +63,31 @@ class DemoPage extends StatelessWidget {
               child: const Text('Glow Animation', 
                   style: TextStyle(color: Colors.white)),
             ),
+
+            // Bounce Style
+            FancyButton(
+              style: FancyButtonStyle.bounce,
+              color: Colors.green,
+              onPressed: () {},
+              child: const Text("Bounce Me", style: TextStyle(color: Colors.white)),
+            ),
+
+// Shake Style
+            FancyButton(
+              style: FancyButtonStyle.shake,
+              color: Colors.red,
+              onPressed: () {},
+              child: const Text("Shake Me", style: TextStyle(color: Colors.white)),
+            ),
+
+// Rotate Style
+            FancyButton(
+              style: FancyButtonStyle.rotate,
+              color: Colors.teal,
+              onPressed: () {},
+              child: const Text("Rotate Me", style: TextStyle(color: Colors.white)),
+            ),
+
           ],
         ),
       ),

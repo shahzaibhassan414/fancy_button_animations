@@ -1,9 +1,9 @@
 name: fancy_button_animations
-description: A lightweight Flutter package for adding interactive animations like scale, pulse, and glow to buttons.
-version: 0.0.1
-homepage: https://github.com/macshahzaib/fancy_button_animations
-repository: https://github.com/macshahzaib/fancy_button_animations
-issue_tracker: https://github.com/macshahzaib/fancy_button_animations/issues
+description: A lightweight Flutter package for adding interactive animations like scale, pulse, glow, bounce, shake, and rotate to buttons.
+version: 0.0.2
+homepage: https://github.com/shahzaibhassan414/fancy_button_animations
+repository: https://github.com/shahzaibhassan414/fancy_button_animations
+issue_tracker: https://github.com/shahzaibhassan414/fancy_button_animations/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
